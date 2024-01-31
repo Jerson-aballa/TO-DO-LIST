@@ -61,7 +61,7 @@ ul li::before{
     height: 28px;
     width: 26px;
     border-radius: 50% ;
-    background-image: url(images/unchecked.jpeg) ;
+    background-image: url(images/unchecked.png) ;
     background-size: cover;
     background-position: center;
     top: 12px;
